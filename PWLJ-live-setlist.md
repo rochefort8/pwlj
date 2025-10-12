@@ -1,5 +1,15 @@
 # PWLJ ライブ　セットリスト
 
+## 2025.10.18 大山
+| 楽曲番号 | 楽曲名 |
+| ---- | ---- |
+| LP-023 | SIBONEY
+| LP-048 | MAMBO No.8
+| LP-055 | AQELOS OJOS VELDE
+| JW-007 | I Left My Heat In San Francisco
+| JW-026 | High School Cadets
+| JW-072 | Stella By Starlight
+
 ## 2025.04.19 OIVV/PWLJ合同ライブ
 * BIG BAND 道場 "春の嵐"ラテン・ジャズカーニバル!クラッシュ&フレンドシップ
 * 開催場所|みどりアートパーク
