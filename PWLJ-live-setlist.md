@@ -85,6 +85,13 @@
 | JW-018 | Easy Money |
 | LP-028 | 十三の砂山 |
 | LP-075 | Tabu |
+| JW-054 | Time Waits For No One |
+| JW-015 | Memory |
+| LP-086 | Malaguena |
+| LP-035 | Cuban Blues |
+| LP-049 | Comin' Home Baby |
+| LP-050 | Without You |
+| LP-064| Spain |
 
 ## 2022.8.11 Passin Live #7
 * 18:00-22:00 大田区民の森ホール
