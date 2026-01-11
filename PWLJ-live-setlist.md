@@ -117,6 +117,31 @@
 | [アンコール]| | 
 | LP-030 | Mambo No.5| 
 
+## 2018.7.7 Passion Live 5 セットリスト一覧
+
+| No. | 曲番 / 管理番号 | 曲名 |
+|----:|----------------|------|
+| 1 | JW-006 | I Can't Stop Loving You |
+| 2 | JW-046 | When You're Smiling |
+| 3 | JW-048 | SHHHHH！ |
+| 4 | JW-032 | Medley From Sophisticated Lady |
+| 5 | LP-007 | Mambo Inn |
+| 6 | LP-015 | 大漁うたいこみ |
+| 7 | LP-023 | Siboney |
+| 8 | LP-030 | Mambo No.5 |
+
+| No. | 曲番 / 管理番号 | 曲名 |
+| 9 | LP-026 | Poco Pero |
+|10 | LP-053 | Cha Cha Flamenco |
+|11 | LP-049 | Comin' Home Baby |
+|12 | LP-056 | Meditation |
+|13 | LP-054 | The Girl From Ipanema（Vocal） |
+|14 | LP-051 | チビリコ マンボ |
+|15 | LP-050 | Without You |
+|16 | LP-055 | Aquellos Ojos Verdes |
+|17 | LP-048 | Mambo No.5 |
+|E | LP-047 | Brazil |
+
 
 
 
