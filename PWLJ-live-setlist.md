@@ -117,6 +117,63 @@
 | [アンコール]| | 
 | LP-030 | Mambo No.5| 
 
+
+
+## 2019.4.3 ローグス祭り セットリスト一覧
+* 多分1川崎市民プラザ
+| 管理番号 | 曲名 |
+|----------|------|
+| LP-059 | Black Orpheus Medley |
+| LP-030 | Mambo No.5 |
+| LP-033 | Recado |
+| LP-058 | Uno Mas |
+| LP-041 | 木曽節 |
+| LP-060 | Para Los Rumberos |
+
+## 2019.1.5 合同ライブ（ニューエイト）セットリスト一覧
+* ニューエイト
+### Set 1
+| 管理番号 | 曲名 |
+|----------|------|
+| JW-012 | Wind Machine |
+| JW-018 | September Song |
+| JW-022 | New York, New York |
+| LP-015 | 大漁うたいこみ（サルサ大漁） |
+| LP-058 | One More Song |
+| LP-055 | Aquellos Ojos Verdes（Green Eyes） |
+| LP-041 | 木曽節 |
+
+### Set 2
+| 管理番号 | 曲名 |
+|----------|------|
+| LP-039 | A-Train Mambo |
+| LP-020 | Quien Sera（SWAY） |
+| LP-057 | Watermelon Man |
+
+## 2018.11.3 OTAふれあいフェスタ セットリスト一覧
+* 平和島
+| 管理番号 | 曲名 |
+|----------|------|
+| LP-039 | A-Train Mambo |
+| LP-057 | Watermelon Man |
+| LP-050 | Without You |
+| LP-048 | Mambo No.8 |
+| LP-010 | Perfidia |
+| LP-026 | Poco Pero |
+| LP-015 | 大漁うたいこみ |
+
+## 2018.9.9 川崎ラテンフェスタ セットリスト一覧
+* 多分川崎市民プラザ
+| 管理番号 | 曲名 |
+|----------|------|
+| LP-026 | Poco Pero |
+| LP-053 | Cha Cha Flamenco |
+| LP-050 | Without You |
+| LP-034 | Mambo Di Paulo |
+| LP-049 | Comin' Home Baby |
+| LP-048 | Mambo No.8 |
+| LP-047 | Brazil |
+
 ## 2018.8.11　大山
 | 曲番 / 管理番号 | 曲名 |
 |:----------------|:-----|
