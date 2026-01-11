@@ -117,6 +117,47 @@
 | [アンコール]| | 
 | LP-030 | Mambo No.5| 
 
+## 2019.10.27　川崎ラテンフェスタ
+
+| 曲番 / 管理番号 | 曲名 |
+|:----------------|:-----|
+| LP-065 | 阿波踊り |
+| LP-062 | Para Los Rumberos |
+| LP-063 | Uno Mas |
+| LP-053 | New Cha Cha |
+| LP-064 | Spain |
+| LP-042 | ひえつき節 |
+
+## 2019.8.24　Passion Live #6
+
+| 曲番 / 管理番号 | 曲名 |
+|:----------------|:-----|
+| JW-056 | IT DON’T MEAN A THING |
+| JW-088 | BILL BAILEY |
+| LP-022 | Tequila |
+| LP-053 | NEW CHA CHA |
+| LP-042 | ひえつき節 |
+| LP-041 | 串本節 |
+| LP-058 | One More Song |
+| LP-046 | birdland |
+| JW-052 | YA GOTTA TRY |
+| JW-057 | IMPRESSIONS |
+| LP-063 | UNO MAS |
+| LP-064 | SPAIN |
+| LP-062 | Para Los Rumberos |
+| LP-048 | MAMBO No.8 |
+
+## 2019.8.10　大山
+
+| 曲番 / 管理番号 | 曲名 |
+|:----------------|:-----|
+| LP-053 | NEW CHACHA |
+| JW-057 | IMPRESSIONS |
+| LP-064 | SPAIN |
+| JW-052 | YA GOTTA TRY |
+| LP-063 | UNO MAS |
+| LP-042 | ひえつき節 |
+
 ## 2019.4.3 ローグス祭り セットリスト一覧
 * 多分1川崎市民プラザ
 
