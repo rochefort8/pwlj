@@ -131,6 +131,7 @@
 | 8 | LP-030 | Mambo No.5 |
 
 | No. | 曲番 / 管理番号 | 曲名 |
+|----:|----------------|------|
 | 9 | LP-026 | Poco Pero |
 |10 | LP-053 | Cha Cha Flamenco |
 |11 | LP-049 | Comin' Home Baby |
