@@ -117,8 +117,19 @@
 | [アンコール]| | 
 | LP-030 | Mambo No.5| 
 
-## 2018.7.7 Passion Live 5 セットリスト一覧
+## 2018.8.11　大山
+| 曲番 / 管理番号 | 曲名 |
+|:----------------|:-----|
+| LP-048 | Mambo No.8 |
+| LP-015 | 大漁うたいこみ |
+| LP-049 | Comin' Home Baby |
+| LP-054 | The Girl From Ipanema（Vo.） |
+| LP-053 | Cha Cha Flamenco |
+| LP-050 | Without You |
+| JW-048 | SHHHHH |
 
+## 2018.7.7 Passion Live 5 セットリスト一覧
+* 蒲田・ニューエイト
 | No. | 曲番 / 管理番号 | 曲名 |
 |----:|----------------|------|
 | 1 | JW-006 | I Can't Stop Loving You |
